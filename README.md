@@ -5,7 +5,7 @@ Student Track – Gen AI Hackathon 2025 (HackWithHyderabad)
 
 🔗 Demo Link
 
-👉 Try the App Here
+👉 Try the App  :   https://ai-powered-misinform-fr91.bolt.host
 
 📌 Problem
 
